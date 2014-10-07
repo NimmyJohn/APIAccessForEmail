@@ -1,0 +1,7 @@
+D:\TestCases\EmailService\EmailSender\EmailSender\bin\Debug\EmailSender.exe.config
+D:\TestCases\EmailService\EmailSender\EmailSender\bin\Debug\EmailSender.exe
+D:\TestCases\EmailService\EmailSender\EmailSender\bin\Debug\EmailSender.pdb
+D:\TestCases\EmailService\EmailSender\EmailSender\bin\Debug\SendGrid.SmtpApi.dll
+D:\TestCases\EmailService\EmailSender\EmailSender\bin\Debug\SendGridMail.dll
+D:\TestCases\EmailService\EmailSender\EmailSender\obj\Debug\EmailSender.exe
+D:\TestCases\EmailService\EmailSender\EmailSender\obj\Debug\EmailSender.pdb
